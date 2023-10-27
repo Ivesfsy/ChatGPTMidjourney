@@ -138,7 +138,7 @@ export function SideBar(props: { className?: string }) {
         />
         <IconButton
           icon={<GemIcon />}
-          text={shouldNarrow ? undefined : "Pro"}
+          text={shouldNarrow ? undefined : "订阅"}
           className={styles["sidebar-bar-button"]}
           onClick={() => window.open(REPO_URL + "-Pro", "_blank")}
           shadow
