@@ -1,6 +1,6 @@
 export const OWNER = "Licoy";
 export const REPO = "ChatGPT-Midjourney";
-export const REPO_URL = `https://github.com/${OWNER}/${REPO}`;
+export const REPO_URL = `https://www.bluelsqkj.com/midjourney#div1`;
 export const ISSUE_URL = `https://github.com/${OWNER}/${REPO}/issues`;
 export const UPDATE_URL = `${REPO_URL}#keep-updated`;
 export const RELEASE_URL = `${REPO_URL}/releases`;
